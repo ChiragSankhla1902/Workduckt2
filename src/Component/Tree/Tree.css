@@ -1,0 +1,29 @@
+.d-tree-container {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .d-tree-node {
+    padding: 0.75rem 1.25rem;
+  }
+  
+  .d-tree-toggler.active {
+    transform: rotate(45deg);
+  }
+
+  .high{
+    background-color: rgb(27, 24, 24) !important;
+  }
+.high2{
+  background-color: #e4d7d7!important;
+}
+  .head{
+    background-color:#e4d7d7;
+    width:100px;
+    height:15px;
+    padding:3%;
+  }
+  .head:hover{
+    background-color: rgb(176, 101, 120)!important;
+     cursor: pointer;
+  }
